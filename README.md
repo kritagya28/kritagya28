@@ -1,7 +1,7 @@
 
   <img src="https://raw.githubusercontent.com/unclecode/crawl4ai/main/docs/assets/powered-by-disco.svg" alt="Powered by Crawl4AI" width="200"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&color=7F00FF&size=24&lines=Hey!+I'm+Gaurav+Singh⚡;Let's+Break+And+Code!!👀)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&color=7F00FF&size=24&lines=Hey!+I'm+Kritagya+Sharma⚡;Let's+Break+And+Code!!👀)
 
 ![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
 
