@@ -105,14 +105,6 @@
 
 ###
 
-
-
-### 🪄 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=gaur-avvv&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
-### Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaur-avvv&bg_color=000000&color=9657d6&line=bb00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories !!
