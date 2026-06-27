@@ -45,7 +45,7 @@
 
  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 
- [![An image of @gauravvv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritagya28)](https://holopin.io/@kritagya28)
+ [![An image of kritagya28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritagya28)](https://holopin.io/@kritagya28)
 
 ### 🔮 Tools / Languages:
 <hr />
