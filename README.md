@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&color=7F00FF&size=24&lines=Hey!+I'm+Kritagya+Sharma⚡;Let's+Break+And+Code!!👀)
 
-![Profile View](https://komarev.com/ghpvc/?username=gaur-avvv&style=plastic&color=blueviolet)
+![Profile View](https://komarev.com/ghpvc/?username=kritagya28&style=plastic&color=blueviolet)
 
 <hr />
 
@@ -30,9 +30,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ## Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gaur-avvv&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaur-avvv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kritagya28&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kritagya28&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritagya28&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=6659&api_domain=hackatime.hackclub.com&theme=blue_navy&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 <div align="left">
   <a href="https://shipwrecked.hackclub.com/?t=ghrm" target="_blank">
@@ -45,7 +45,7 @@
 
  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 
- [![An image of @gauravvv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravvv)](https://holopin.io/@gauravvv)
+ [![An image of @gauravvv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritagya28)](https://holopin.io/@kritagya28)
 
 ### 🔮 Tools / Languages:
 <hr />
